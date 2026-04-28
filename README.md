@@ -22,7 +22,7 @@ For projects that were missing a broad sector, project descriptions were used to
 
 ## Dashboard
 
-The Tableau dashboard visualizes aid flows from donor countries to recipient countries. Each flow line represents money moving between a donor and recipient country, with line thickness based on total disbursement amount. The dashboard includes filters for year, donor country, and broad sector, allowing users to explore how aid priorities differ across time, geography, and type of assistance.
+The Tableau dashboard visualizes aid flows from donor countries to recipient countries. Each flow line represents money moving between a donor and recipient country, with line thickness based on total disbursement amount. The dashboard includes filters for year, donor country, and broad sector, allowing users to explore how aid priorities differ across time, geography, and type of assistance. Counties receiving funding are labeled.
 
 ## Repository Contents
 
